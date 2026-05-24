@@ -16,7 +16,6 @@
 📍 Hyderabad, India
 🎯 Building scalable microservices & modern web apps
 🌱 Currently leveling up in DevOps & Cloud Deployments
-💡 "Excellent is not a skill. It's an attitude."
 
 ---
 
