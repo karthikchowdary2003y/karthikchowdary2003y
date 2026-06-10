@@ -22,7 +22,6 @@
 <br/>
 
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikchowdary2003y&layout=donut&theme=github_dark&hide_border=true&title_color=d4a017&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
-
 ## &nbsp;◈ &nbsp;About Me
 
 <br/>
