@@ -1,115 +1,169 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3a,70:1a1f3a,100:0d1117&height=280&section=header&text=Karthik%20Yarramreddy&fontSize=60&fontColor=d4a017&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Java%20·%20Spring%20Boot%20·%20React&descAlignY=65&descSize=18&descColor=a0aec0&animation=fadeIn&stroke=d4a017&strokeWidth=1" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:1A2340,100:0A0F1E&height=220&section=header&text=Karthik%20Chowdary&fontSize=55&fontColor=C8A96E&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20Microservices&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=D4A017&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Building+Production-Ready+Systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%E2%98%95;React+%7C+Docker+%7C+REST+APIs+%F0%9F%8C%90;Open+to+New+Opportunities+%F0%9F%9F%A1" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=C8A96E)](https://www.linkedin.com/in/karthik-yarramreddy-316a74350/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0F1E?style=for-the-badge&logo=vercel&logoColor=C8A96E)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0F1E?style=for-the-badge&logo=gmail&logoColor=C8A96E)](mailto:karthikchowdary2003y@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0F1E?style=for-the-badge&logo=github&logoColor=C8A96E)](https://github.com/karthikchowdary2003y)
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=karthikchowdary2003y&icon=0&color=9)
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/karthik-yarramreddy-316a74350/)
+[![Gmail](https://img.shields.io/badge/%20Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335)](mailto:karthikchowdary2003y@gmail.com)
+[![GitHub](https://img.shields.io/badge/%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/karthikchowdary2003y)
+[![Profile Views](https://komarev.com/ghpvc/?username=karthikchowdary2003y&style=for-the-badge&color=d4a017&label=PROFILE+VIEWS)](https://github.com/karthikchowdary2003y)
 
 </div>
 
+<br/>
+
 ---
 
-```json
-{
-  "name"     : "Karthik Chowdary",
-  "role"     : "Full Stack Developer",
-  "location" : "Hyderabad, India",
-  "stack"    : ["Java", "Spring Boot", "React", "Microservices", "Docker"],
-  "learning" : ["DevOps", "Cloud", "System Design"],
-  "status"   : "open_to_opportunities"
-}
+<br/>
+
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikchowdary2003y&layout=donut&theme=github_dark&hide_border=true&title_color=d4a017&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+
+## &nbsp;◈ &nbsp;About Me
+
+<br/>
+
+```typescript
+const karthik = {
+  name     : "Karthik Yarramreddy",
+  role     : "Full Stack Developer",
+  location : "Hyderabad, India 🇮🇳",
+
+  expertise: [
+    "Microservices Architecture",
+    "Spring Boot REST APIs",
+    "React Frontend",
+    "Docker & DevOps",
+  ],
+
+  currentFocus : "Cloud & System Design",
+  status       : "Open to Opportunities 🟡",
+  email        : "karthikchowdary2003y@gmail.com",
+};
 ```
 
----
+<br clear="right"/>
 
-## About Me
-
-- 🚀 Building **scalable microservices** and modern full-stack web apps
-- 🤖 Creator of AI-powered tools using **Groq LLaMA 3.1**
-- 🌱 Currently leveling up in **DevOps & Cloud deployments**
-- 🏏 Cricket fan · 🎬 Interstellar · 📖 Atomic Habits
-- 📍 Hyderabad, India · **Open to work**
+<br/>
 
 ---
 
-## Tech Stack
+<br/>
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=apachekafka&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## &nbsp;◈ &nbsp;Tech Arsenal
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| 🏡 [LandMart](https://github.com/karthikchowdary2003y/land-marketplace) | Real estate marketplace with JWT auth, Cloudinary storage & Redis caching | Spring Boot · React · Supabase | ✅ Live |
-| 🤖 [Ask AI](https://github.com/karthikchowdary2003y/ask-ai-project-clean) | Agricultural AI assistant powered by Groq LLaMA 3.1 with topic filtering | Spring Boot · Groq API · LLaMA 3.1 | ✅ Live |
-| 🍔 [Ziggy](https://github.com/karthikchowdary2003y/food-delivery-microservices) | Food delivery platform on microservices architecture with Docker | Java · Spring Boot · Docker · Eureka | 🔧 In Dev |
-| 🅿️ [Smart Parking](https://github.com/karthikchowdary2003y/smart-parking-system) | Smart parking management system with real-time slot tracking | Java · Spring Boot · React | 🆕 New |
-| 🏠 [PG Management](https://github.com/karthikchowdary2003y/pg-management-system) | Paying guest accommodation management system | Java · Spring Boot | 🆕 New |
-
----
-
-## GitHub Stats
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikchowdary2003y&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikchowdary2003y&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthikchowdary2003y&theme=github_dark" width="49%"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=karthikchowdary2003y&theme=dark&hide_border=true&border_radius=10&ring=C8A96E&fire=E2C98A&currStreakLabel=C8A96E)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikchowdary2003y&layout=compact&theme=github_dark&hide_border=true&title_color=C8A96E&langs_count=6)
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevOps & Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f?style=flat-square&logo=springboot&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-0052cc?style=flat-square&logo=apachekafka&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666c?style=flat-square&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-ff6c37?style=flat-square&logo=postman&logoColor=white) | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) |
 
 </div>
 
+<br/>
+
 ---
 
-## GitHub Trophies
+<br/>
+
+## &nbsp;◈ &nbsp;Featured Projects
+
+<br/>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=karthikchowdary2003y&theme=darkhub&no-frame=true&row=1&column=7)
+<a href="https://github.com/karthikchowdary2003y/food-delivery-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikchowdary2003y&repo=food-delivery-app&theme=github_dark&hide_border=true&title_color=d4a017&text_color=c9d1d9&bg_color=0d1117&icon_color=d4a017&description_lines_count=2" width="48%"/>
+</a>
+&nbsp;
+<a href="https://github.com/karthikchowdary2003y/food-delivery-microservices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikchowdary2003y&repo=food-delivery-microservices&theme=github_dark&hide_border=true&title_color=d4a017&text_color=c9d1d9&bg_color=0d1117&icon_color=d4a017&description_lines_count=2" width="48%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/karthikchowdary2003y/land-marketplace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikchowdary2003y&repo=land-marketplace&theme=github_dark&hide_border=true&title_color=d4a017&text_color=c9d1d9&bg_color=0d1117&icon_color=d4a017&description_lines_count=2" width="48%"/>
+</a>
+&nbsp;
+<a href="https://github.com/karthikchowdary2003y/ask-ai-project-clean">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikchowdary2003y&repo=ask-ai-project-clean&theme=github_dark&hide_border=true&title_color=d4a017&text_color=c9d1d9&bg_color=0d1117&icon_color=d4a017&description_lines_count=2" width="48%"/>
+</a>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
+
+## &nbsp;◈ &nbsp;GitHub Analytics
+
+<br/>
 
 <div align="center">
 
-*"Build things that matter. Ship things that work."*
+<img src="https://github-readme-stats.vercel.app/api?username=karthikchowdary2003y&show_icons=true&theme=github_dark&hide_border=true&title_color=d4a017&icon_color=d4a017&text_color=c9d1d9&bg_color=0d1117&count_private=true&rank_icon=percentile&show=reviews,discussions_started" width="52%"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=karthikchowdary2003y&theme=github-dark-blue&hide_border=true&border_radius=6&ring=d4a017&fire=d4a017&currStreakLabel=d4a017&sideLabels=c9d1d9&dates=8b949e" width="44%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:1A2340,100:0A0F1E&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikchowdary2003y&theme=github-compact&bg_color=0d1117&color=d4a017&line=d4a017&point=ffffff&area_color=d4a01720&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikchowdary2003y&theme=github_dark" width="96%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;◈ &nbsp;Achievements
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karthikchowdary2003y&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=0" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## ✦ &nbsp;Let's Connect
+
+<br/>
+
+> *"The best way to predict the future is to build it."*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-yarramreddy-316a74350/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikchowdary2003y@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikchowdary2003y)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1f3a,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting%21&fontSize=20&fontColor=d4a017&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
